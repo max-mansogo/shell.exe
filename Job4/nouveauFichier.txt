@@ -1,0 +1,1 @@
+ash es un intérprete de comandos que se utiliza en sistemas operativos como Linux y macOS. Es una herramienta muy útil para automatizar tareas y escribir scripts. Si desea aprender a usar Bash, hay muchos tutoriales en línea disponibles.
